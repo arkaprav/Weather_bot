@@ -1,1 +1,2 @@
 # Weather_bot
+It is an intelligent bot, it is created using nlp spacy tools. At first the query of the user is taken and compared to a sample query to make sure the query is valid. Then according to the users choices the city name is extracted from the input and the name and the api key is given to a site to fetch the online weather data of the specific city from openweathermap.org site. Then the result is shown in the output in form of a chat
